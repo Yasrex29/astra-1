@@ -1,0 +1,8 @@
+safecrowd-ai/
+
+app.py
+auth.py
+detector.py
+requirements.txt
+users.json
+README.md
